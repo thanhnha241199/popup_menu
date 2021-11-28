@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/nhahuynh/Documents/SourceDEV/popupmenu/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-night-v8/values-night-v8.xml",
+            "outputFile": "/Users/nhahuynh/Documents/SourceDEV/Freelance/popup_menu/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-night-v8/values-night-v8.xml",
             "map": [
                 {
-                    "source": "/Users/nhahuynh/Documents/SourceDEV/popupmenu/android/app/src/main/res/values-night/styles.xml",
+                    "source": "/Users/nhahuynh/Documents/SourceDEV/Freelance/popup_menu/android/app/src/main/res/values-night/styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",
