@@ -1,0 +1,4 @@
+#Mon Nov 15 14:36:29 ICT 2021
+base.0=/Users/nhahuynh/Documents/SourceDEV/popupmenu/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
